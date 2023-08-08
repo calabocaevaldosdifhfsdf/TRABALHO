@@ -119,3 +119,4 @@ com base nesse valor, deverá ser chamada as outras funções do sistema
 
 vou explicar melhor futuramente...
 
+[ '8', '23', '32', '23', '23' ] -> "8;23;32;23;23."
